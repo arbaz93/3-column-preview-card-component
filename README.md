@@ -1,5 +1,26 @@
-# 3-column preview card component
-<h2><a href="https://arbaz93.github.io/3-column-preview-card-component/">Click here to check it out!</a></h2>
-<!-- ![Advice Generator](./images/desktop-design.jpg) -->
-<img src="./design/desktop-preview.jpg">
-   
+# Three Column Preview Card Component  
+
+![Desktop Preview](./design/desktop-preview.jpg)  
+
+## Overview  
+
+This project showcases a responsive three-column card layout that provides a visually appealing way to display content. Each card contains information, an image, and interactions that enhance user experience.  
+
+## Live Preview  
+
+You can view the live version of this project [here](https://arbaz93.github.io/3-column-preview-card-component/).  
+
+## GitHub Repository  
+
+For the source code and additional details, visit the GitHub repository: [3-column-preview-card-component](https://github.com/arbaz93/3-column-preview-card-component).  
+
+## Skills Used  
+
+- HTML  
+- CSS  
+- Modern Layout Techniques  
+- Responsive Design  
+
+## License  
+
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
