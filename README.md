@@ -10,10 +10,6 @@ This project showcases a responsive three-column card layout that provides a vis
 
 You can view the live version of this project [here](https://arbaz93.github.io/3-column-preview-card-component/).  
 
-## GitHub Repository  
-
-For the source code and additional details, visit the GitHub repository: [3-column-preview-card-component](https://github.com/arbaz93/3-column-preview-card-component).  
-
 ## Skills Used  
 
 - HTML  
